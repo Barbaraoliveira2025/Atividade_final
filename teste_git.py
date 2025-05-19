@@ -1,0 +1,1 @@
+print("arquivo de teste")
